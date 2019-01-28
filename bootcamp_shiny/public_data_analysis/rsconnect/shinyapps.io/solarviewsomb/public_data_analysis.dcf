@@ -1,0 +1,13 @@
+name: public_data_analysis
+title: public_data_analysis
+username:
+account: solarviewsomb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 669527
+bundleId: 1840230
+url: https://solarviewsomb.shinyapps.io/public_data_analysis/
+when: 1548631976.1404
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 11.1.Problema.pdf|11.2.Teoria.pdf|11.3.Prática.pdf
