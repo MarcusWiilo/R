@@ -1,9 +1,9 @@
 
 getwd()
-setwd("c:\\dados")
 
 
-quit()
+
+yquit()
 
 
 class(iris)

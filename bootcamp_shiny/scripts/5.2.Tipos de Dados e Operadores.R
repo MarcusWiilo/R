@@ -1,5 +1,3 @@
-#Professor Fernando Amaral
-
 delta <- 8
 class(delta)
 

@@ -1,4 +1,4 @@
-#Professor Fernando Amaral
+
 a = 10
 b = 20
 
@@ -37,3 +37,4 @@ parouimpar <- function(x) {
 
 parouimpar(5)
 parouimpar(12)
+

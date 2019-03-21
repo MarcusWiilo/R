@@ -1,4 +1,4 @@
-#Professor Fernando Amaral
+
 
 head(x=iris, n=2)
 head(iris)
